@@ -1,4 +1,4 @@
-# Python DevOps Automation Scripts 🚀
+# Python DevOps Automation Scripts 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-green)
